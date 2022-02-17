@@ -1,7 +1,7 @@
 # TechPRO headphones
 
 ## Live Demo
-## <a href="https://furniture-store-alejove.netlify.app/" target="_blank" >See it here!</a>
+## <a href="https://techpro-alejove.netlify.app/" target="_blank" >See it here!</a>
 
 ## Description
 
